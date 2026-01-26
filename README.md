@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Navneet Anand
 
-### 🚀 Aspiring Full Stack Developer | Computer Science @ IIT (ISM) Dhanbad
+### 🚀 Aspiring Full Stack Developer | Competitive Programmer
 *Building the future, one line of code at a time.*
 
 ---
