@@ -27,3 +27,7 @@ const navneet = {
   interests: ["Open Source", "Cryptography", "Deveops"],
   funFact: "I debug code faster than I debug my life! 😂"
 };
+
+---
+
+🛠️ Categorized Technology Arsenal
