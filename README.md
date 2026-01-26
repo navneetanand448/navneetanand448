@@ -28,6 +28,4 @@ const navneet = {
   funFact: "I debug code faster than I debug my life! 😂"
 };
 
----
 
-🛠️ Categorized Technology Arsenal
