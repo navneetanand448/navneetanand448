@@ -27,4 +27,21 @@ const navneet = {
   interests: ["Open Source", "Cryptography", "Deveops"],
   funFact: "I debug code faster than I debug my life! 😂"
 };
+___ 🛠️ Categorized Technology Arsenal
+
+Languages: C, C++, JavaScript, SQL, HTML, CSS, and MATLAB.
+
+Frontend & Frameworks: React.js, Next.js, and Tailwind CSS.
+
+
+Backend & Server-side: Node.js, Express.js, and Socket.io for real-time applications.
+
+
+Databases & ORMs: MongoDB, PostgreSQL, Prisma, and Drizzle.
+
+
+Cloud & DevOps: AWS, Docker, Kubernetes, Vercel, and Git/GitHub for version control.
+
+
+Core Concepts: Data Structures & Algorithms (DSA), Operating Systems, DBMS, Computer Networks, and Object-Oriented Programming (OOP)
 
