@@ -19,6 +19,6 @@ const navneet = {
     location: "Dhanbad, India",
     education: "Indian Institute of Technology (ISM), Dhanbad",
     currentFocus: ["Full Stack Development", "System Design", "Data Structures and Algorithms"],
-    learningNow: ["GoLang", "Next.js", "Docker", "Kubernetes"],
-    interests: ["Distributed Systems", "RAG", "Agentic AI"]
+    learningNow: ["GoLang", "AWS", "Docker", "Kubernetes","Apache-Kafka"],
+    interests: ["Distributed Systems", "RAG", "Agentic AI","Open-Source"]
 };
